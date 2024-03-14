@@ -1,0 +1,7 @@
+{
+  "routes" : [
+    "/auth/api/v1/signin",
+    "/auth/api/v1/signin/refresh",
+    "/auth/api/v1/signout"
+  ]
+}

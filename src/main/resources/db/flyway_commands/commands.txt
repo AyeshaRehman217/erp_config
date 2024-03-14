@@ -1,0 +1,2 @@
+# for migration
+//:>mvn flyway:migrate -Dflyway.url=jdbc:postgresql://localhost:5432/postgres -Dflyway.user=postgres -Dflyway.password=root
